@@ -10,9 +10,9 @@ Baixe a versao adequada na [release mais recente](https://github.com/alvaro-brit
 | Sistema | Arquivo |
 | --- | --- |
 | Windows 64 bits | `wa-massa-agent-win-x86_64.exe` |
-| macOS Apple Silicon | `wa-massa-agent-macos-arm64` |
-| macOS Intel | `wa-massa-agent-macos-x86_64` |
-| Linux 64 bits | `wa-massa-agent-linux.AppImage` |
+| macOS Apple Silicon | `wa-massa-agent-macos-arm64.dmg` |
+| macOS Intel | `wa-massa-agent-macos-x86_64.dmg` |
+| Linux 64 bits | `wa-massa-agent-linux-x86_64.bin` |
 
 Depois de baixar, permita a execucao do arquivo quando necessario e entre com
 as credenciais da sua conta WA Massa.
