@@ -14,5 +14,6 @@ Baixe a versao adequada na [release mais recente](https://github.com/alvaro-brit
 | macOS Intel | `wa-massa-agent-macos-x86_64.dmg` |
 | Linux 64 bits | `wa-massa-agent-linux-x86_64.bin` |
 
-Depois de baixar, permita a execucao do arquivo quando necessario e entre com
-as credenciais da sua conta WA Massa.
+No macOS, abra o arquivo `.dmg` e arraste `WA Massa Agent.app` para
+`Applications`. No primeiro uso, entre com as credenciais da sua conta WA Massa.
+O agente permanece ativo no icone da bandeja do sistema.
